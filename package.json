@@ -1,0 +1,26 @@
+{
+  "name": "iosamuel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "iosamuel": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iosamuel/npm-iosamuel.git"
+  },
+  "keywords": [
+    "iosamuel"
+  ],
+  "author": "IOSamuel - Samuel Burbano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iosamuel/npm-iosamuel/issues"
+  },
+  "homepage": "https://github.com/iosamuel/npm-iosamuel#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "colorette": "^1.2.1"
+  }
+}
